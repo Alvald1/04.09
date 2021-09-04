@@ -1,0 +1,56 @@
+body {
+  background: cornsilk;
+}
+.con {
+  margin-left: 33%;
+  width: 33%;
+  text-align: center;
+}
+.con table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.con td {
+  border: 1px solid black;
+}
+.con img {
+  width: 100%;
+}
+.con .main {
+  font-weight: 900;
+}
+.con .btn {
+  margin-top: 5px;
+  display: inline-block;
+  background: grey;
+  color: #fff;
+  padding: 6px 15px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+.con2 {
+  margin-left: 20%;
+  width: 60%;
+  text-align: center;
+}
+.btn2 {
+  display: inline-block;
+  background: grey;
+  color: #fff;
+  padding: 6px 15px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+.con2 .img {
+  width: 100%;
+}
+.con2 figure {
+  border: 1px solid black;
+  background: blanchedalmond;
+  padding-top: 25px;
+}
+.con2 figure p {
+  margin-top: 2px;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
